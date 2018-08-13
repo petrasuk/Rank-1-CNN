@@ -7,4 +7,4 @@ However, as we mentioned in the paper, in the test time we can filter the input
 with consecutive 1-D filters, where we can use the trained 1-D vectors p, q, and t as the 1-D filters.
 This results in a faster inference time.
 
-(This site will be updated)
+(This page will be updated)
